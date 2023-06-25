@@ -1,0 +1,45 @@
+.menu{
+    display: flex;
+    align-items: center;
+    column-gap: 2.7rem;
+}
+.nav__item a{
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 1.1rem;
+    text-decoration: none;
+}
+.nav__item a:hover{
+    color:#ccc;
+}
+.nav__right{
+    display: flex;
+    align-items: center;
+    column-gap: 1.5rem;
+}
+.register__btn{
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    color: #0b0909;
+    background: white;
+    font-size:1rem;
+    font-weight: 500;
+    cursor: pointer;
+   
+}
+.nav__right .btnss{
+    text-decoration: none;
+    color: black;
+}
+.register__btn:hover{
+    background: #ccc;
+}
+.nav__wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 0.5rem;
+}
