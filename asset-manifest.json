@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FITtoFAT/static/css/main.921f648d.css",
+    "main.js": "/FITtoFAT/static/js/main.bf6a924b.js",
+    "static/media/img1.jpg": "/FITtoFAT/static/media/img1.788fcbe9af456690bf22.jpg",
+    "static/media/04.png": "/FITtoFAT/static/media/04.579f331d5946a671d8a7.png",
+    "index.html": "/FITtoFAT/index.html",
+    "main.921f648d.css.map": "/FITtoFAT/static/css/main.921f648d.css.map",
+    "main.bf6a924b.js.map": "/FITtoFAT/static/js/main.bf6a924b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.921f648d.css",
+    "static/js/main.bf6a924b.js"
+  ]
+}
